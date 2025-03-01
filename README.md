@@ -1,60 +1,42 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 24px;">Hello, I'm Ayush Kumar, Software Developer & AIML Enthusiast</h1>
-<h3 align="center" style="font-family: 'Poppins', sans-serif; font-size: 16px;">If you have an exciting project or an idea, feel free to reach out! I'm open to collaboration on AI, ML, and full-stack development projects.</h3>
+# Hi, I'm Ayush Kumar! 👋
+### Software Developer & AI/ML Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumar-22&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar-22" /> </p>
+Passionate about AI, ML, and full-stack development. Open to exciting projects and collaborations!
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayushkumar-22" alt="ayushkumar-22" />
-  </a> 
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ayushkumar-22&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3 align="left" style="font-family: 'Poppins', sans-serif; font-size: 18px;">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayushkumar22/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" />
-  </a>
-  <a href="https://www.kaggle.com/dragayu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="25" width="35" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ayushkumar22124" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="25" width="35" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/ayushkum0sag" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="25" width="35" />
-  </a>
-</p>
+## 🏆 GitHub Profile Trophy  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ayushkumar-22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left" style="font-family: 'Poppins', sans-serif; font-size: 18px;">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="30" height="30"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-  </a>
-</p>
+## 🔥 About Me
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Data Science, AI, and ML**
+- 📫 Reach me at **ayushkumar22124@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/12I87_JTEe_zTdo1T0ivk2OIbPRJuzvh7/view?usp=drive_link)
+- ⚡ Fun fact: **I can code even if I don’t know!** 😆
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar-22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushkumar22/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/dragayu)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/ayushkumar22124)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/ayushkum0sag)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkumar-22&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar-22&" alt="GitHub Streak Stats" />
-</p>
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar-22&layout=compact&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushkumar-22&show_icons=true&theme=vision-friendly-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar-22&theme=vision-friendly-dark)
+
+---
+⭐️ **Let's build something amazing together!** 
