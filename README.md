@@ -12,7 +12,7 @@ Passionate about AI, ML, and full-stack development. Open to exciting projects a
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Data Science, AI, and ML**
 - 📫 Reach me at **ayushkumar22124@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1gQXZv3xZ7byu0ZWIfTuVPgc5DOTIvxQF/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1ZKKAPJza2pwdH-IPtqpE7FwYys3Uofer/view?usp=sharing)
 - ⚡ Fun fact: **I can code even if I don’t know!** 😆
 
 ## 🌐 Connect with Me
